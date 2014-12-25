@@ -1,3 +1,3 @@
 test4.repo
 ==========
-This is my demo.
+This is my demo.  Today is Christmas
